@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6185f609-137b-418c-ad7f-6e3ba9502501" name="Default Changelist" comment="" />
+    <list default="true" id="6185f609-137b-418c-ad7f-6e3ba9502501" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/aleksas1/RSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aleksas1/RSA.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qkRLH2jYFuPBBO7jdTIKo6RQ91" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

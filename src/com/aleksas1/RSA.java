@@ -19,6 +19,7 @@ public class RSA {
         return privateKey.exists() && publicKey.exists();
     }
 
+    // Testinis komentaras
 
     public void EncryptToFile (){
         try {
